@@ -5,4 +5,6 @@ untuk project ini saya open source kan :)
 
 silahkan pakai jika cocok dan ingin.
 
+Santai aja.Script nya saya buat menggunakan PHP dengan database MYSQL dan menggunakan PDO untuk keamanan
+
 Maded with <3 by Rahmad Alif 
